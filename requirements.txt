@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+pandas
+k-means-constrained
+python-dotenv
